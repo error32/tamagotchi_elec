@@ -1,6 +1,6 @@
 float bezier;
 float noise=0;
-float speed= .015;
+float speed= .315;
 float intSpeed = 0.5;
 float noiseScale=0.02;
 int side= (int)random(600,800); //gérer le nombre de edge/pics
